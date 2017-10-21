@@ -1,4 +1,11 @@
 # HelloWorld
-PRóba PRojekt
+Róba Pojekt
 
-Ez itt az első kommit az ibnicializálás után.
+
+
+
+Ez itt a második kommit
+
+
+
+ZZV
